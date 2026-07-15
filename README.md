@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=PANKAJ%20KUMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
@@ -75,7 +74,7 @@ I care about clean architecture, secure authentication flows, and interfaces tha
 
 **Tools & Fundamentals**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 
 </div>
 
@@ -118,6 +117,7 @@ A full-stack web platform enabling college students to register, submit, and tra
 | **Key Feature** | Real-time voting system with duplicate-prevention logic |
 | **UI** | Fully responsive design across all devices |
 | **Repository** | [github.com/pankaj-034](https://github.com/pankaj-034) |
+| **Live Demo** | [grievana.vercel.app](https://grievana.vercel.app/) |
 
 Built to solve a genuine campus problem — giving students a transparent, trackable way to raise and follow up on complaints, instead of relying on informal channels.
 
@@ -136,6 +136,7 @@ A full-stack recruitment platform connecting companies posting jobs with candida
 | **Key Features** | Job listings, advanced filtering, application tracking |
 | **Engineering** | TypeScript adopted for improved type safety and maintainability |
 | **Repository** | [github.com/pankaj-034](https://github.com/pankaj-034) |
+| **Live Demo** | [v0-hirevia.vercel.app](https://v0-hirevia.vercel.app/) |
 
 Designed to mirror real hiring-platform workflows — from job posting to candidate profile creation to application tracking — with a scalable, responsive UI.
 
@@ -297,6 +298,3 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer" width="100%"/>
 
 </div>
-
-
-
